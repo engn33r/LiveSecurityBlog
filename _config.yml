@@ -2,7 +2,7 @@
 title:               Erik's Security Blog
 tagline:             'Practicing Constant Vigilence'
 description:         'This blog is a compilation of security ideas from Erik Elbieh. For questions or comments about this blog, please <a href="https://erikelbieh.com/contact">contact Erik</a>.'
-url:                 https://engn33r.github.io/LiveSecurityBlog
+url:                 https://security.erikelbieh.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
