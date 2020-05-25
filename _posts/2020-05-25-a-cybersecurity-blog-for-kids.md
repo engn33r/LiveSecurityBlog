@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A cybersecurity blog for kids
+title: A Cybersecurity Blog for Kids
 permalink: /first-post
 ---
 
