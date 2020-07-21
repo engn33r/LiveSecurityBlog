@@ -1,0 +1,4 @@
+Contact: engineer@erikelbieh.com
+Preferred-Languages: en
+Canonical: https://security.erikelbieh.com/security.txt
+
