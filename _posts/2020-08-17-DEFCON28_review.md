@@ -24,7 +24,7 @@ The first year of virtual DEF CON wrapped up last week, and what a firehose of i
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u5XLmlm59As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-5. Pedro Umbelino and Joao Morais presented some awesome vulnerabilities they uncovered in some of the most installed Android apps - the Google camera application and Samsung's Find My Mobile application. The impact they were able to demonstrate with their findings was pretty impressive, as they put a fair bit of effort into adding capabilities to their proof of concept apps.
+5. Pedro Umbelino and Joao Morais presented some awesome vulnerabilities they uncovered in some of the most installed Android apps - the Google camera application and Samsung's Find My Mobile application. The impact they were able to demonstrate with their findings was pretty impressive, as they put a fair bit of effort into adding capabilities to their proof of concept apps. Since I have started getting into Android security (the next post will discuss this), I think mobile security is substantially behind the time, and I'd love to see more detailed mobile security talks like this next year.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qbj-4NXsE-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
