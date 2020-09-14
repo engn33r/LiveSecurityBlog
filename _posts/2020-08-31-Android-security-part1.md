@@ -25,12 +25,12 @@ Huh, BugCrowd's graph implies that Android is where hackers are "weakest". Not m
 So basically Google's Android bug bounty program, which covers any app with over 100 million installs (that's around 500 targets, according to [androidrank.org](https://www.androidrank.org/android-most-popular-google-play-apps?category=all&sort=4&price=all)), is known to have many vulnerabilities and pays well. Okay, sounds like that's motivation enough, but there's more data from Google. This one comes directly from the [Google Play Security Rewards Program website](https://www.google.com/about/appsecurity/play-rewards/). To summarize the chart below, Google is saying that easy-to-find vulnerabilities exist in Android apps, and instead of classifying them as out of scope, Google instead describes these vulnerabilities and still offers a reward. Very kind of them!
 
 ![Google Play Security Rewards Known Issues chart](/public/2020-08-31-GooglePlaySecurityRewards.png)
-*Google Play Security Rewards Known Issues chart*
+*Google Play Security Rewards Known Issues Chart*
 
 Of course, that chart is only for the low hanging fruit. The more complete list of rewards contains higher rewards, naturally. And remember that HackerOne, BugCrowd, Intigriti, and other sites have additional Android targets, many of which are conveniently curated in this [Github repo](https://github.com/arkadiyt/bounty-targets-data).
 
 ![Google Play Security Rewards full chart](/public/2020-08-31-GooglePlaySecurityRewardsFull.png)
-*Google Play Security Rewards chart*
+*Google Play Security Rewards Chart*
 
 Oh, and let's wrap up by reminding everyone that you can download and decompile Android applications, instrument them with Frida on a rooted device, and basically examine all the ins and outs of the application that you might want to see. How many other target assets can claim to be this close to whitebox open-source testing? I don't see many hands being raised.
 
